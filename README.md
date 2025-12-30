@@ -21,4 +21,4 @@
 
 - Animes
 - Electronic Music
-- Historical scale model
+- Historical Scale Model
